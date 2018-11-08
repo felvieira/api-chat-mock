@@ -1,0 +1,57 @@
+{
+  "blip": {
+    "type": "blip",
+    "src": "url",
+    "data": {
+      "appKey": "aa",
+      "button": { "color": "#2CC3D5" },
+      "auth": { "identity": "", "pass": "" },
+      "customStyle": {},
+      "account": {
+        "fullName": "John Doe",
+        "email": "johndoe@gmail.com",
+        "phoneNumber": "+15055034455",
+        "city": "Decatur"
+      },
+      "cta": true,
+      "target": ""
+    }
+  },
+  "avi": {
+    "type": "avi",
+    "src": "url",
+    "data": {
+      "appKey": "aa",
+      "button": { "color": "#2CC3D5" },
+      "auth": { "identity": "", "pass": "" },
+      "customStyle": {},
+      "account": {
+        "fullName": "John Doe",
+        "email": "johndoe@gmail.com",
+        "phoneNumber": "+15055034455",
+        "city": "Decatur"
+      },
+      "cta": true,
+      "target": ""
+    }
+  },
+  "gv": {
+    "type": "gv",
+    "src": "url",
+    "data": {
+      "appKey": "aa",
+      "button": { "color": "#2CC3D5" },
+      "auth": { "identity": "", "pass": "" },
+      "customStyle": {},
+      "account": {
+        "fullName": "John Doe",
+        "email": "johndoe@gmail.com",
+        "phoneNumber": "+15055034455",
+        "city": "Decatur"
+      },
+      "cta": true,
+      "target": ""
+    }
+  }
+
+}
