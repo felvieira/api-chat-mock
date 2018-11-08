@@ -1,22 +1,43 @@
 {
-  "blip": {
-    "type": "blip",
-    "src": "url",
-    "data": {
-      "appKey": "aa",
-      "button": { "color": "#2CC3D5" },
-      "auth": { "identity": "", "pass": "" },
-      "customStyle": {},
-      "account": {
-        "fullName": "John Doe",
-        "email": "johndoe@gmail.com",
-        "phoneNumber": "+15055034455",
-        "city": "Decatur"
-      },
-      "cta": true,
-      "target": ""
+  "blip": [{
+      "id": 1,
+      "type": "blip",
+      "src": "https://unpkg.com/blip-chat-widget",
+      "data": {
+        "appKey": "dGVzdGVkZWNoYXQxOmI5YTU5MjZkLTE2MDQtNDU0Yi1iODJlLTdlNjljNGU4NzA0Zg==",
+        "button": { "color": "#2CC3D5" },
+        "auth": { "identity": "", "pass": "" },
+        "customStyle": {},
+        "account": {
+          "fullName": "João",
+          "email": "joao@joao.com",
+          "phoneNumber": "+15055034455",
+          "city": "Decatur"
+        },
+        "cta": true,
+        "target": ""
+      }
+    },
+    {
+      "id": 2,
+      "type": "blip",
+      "src": "https://unpkg.com/blip-chat-widget",
+      "data": {
+        "appKey": "dGVzdGVkZWNoYXQxOmI5YTU5MjZkLTE2MDQtNDU0Yi1iODJlLTdlNjljNGU4NzA0Zg==",
+        "button": { "color": "#2CC3D5" },
+        "auth": { "identity": "", "pass": "" },
+        "customStyle": {},
+        "account": {
+          "fullName": "Maria",
+          "email": "maria@maria.com",
+          "phoneNumber": "+15055034455",
+          "city": "Decatur"
+        },
+        "cta": false,
+        "target": ""
+      }
     }
-  },
+  ],
   "avi": {
     "type": "avi",
     "src": "url",
