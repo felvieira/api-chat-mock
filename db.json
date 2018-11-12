@@ -40,7 +40,25 @@
   ],
   "avi": {
     "type": "avi",
-    "src": "https://cdn.jsdelivr.net/gh/felvieira/api-chat-mock@master/avi.js"
+    "src": "https://avi.uol.com.br/script/load/tracking.js?ms=789654321",
+    "license": "VI-6182-02",
+    "customVars": [{
+        "name": "servicename",
+        "value": "pagseguro"
+      },
+      {
+        "name": "servicecategory",
+        "value": "pagseguro"
+      },
+      {
+        "name": "skin",
+        "value": "pagseguro"
+      },
+      {
+        "name": "source",
+        "value": "4"
+      }
+    ]
   },
   "gv": {
     "type": "gv",
