@@ -4,7 +4,7 @@
       "type": "blip",
       "src": "https://unpkg.com/blip-chat-widget",
       "data": {
-        "appKey": "dGVzdGVkZWNoYXQxOmI5YTU5MjZkLTE2MDQtNDU0Yi1iODJlLTdlNjljNGU4NzA0Zg==",
+        "appKey": "Y2hhdGN0YTo0MmYyNTQwOC05NmMyLTQ0ZGYtYmViNC03ODgzMWEwNTBiYjQ=",
         "button": { "color": "#2CC3D5" },
         "auth": { "identity": "", "pass": "" },
         "customStyle": {},
