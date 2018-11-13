@@ -1,19 +1,26 @@
 {
-  "blip": [{
+  "blip": [
+    {
       "id": 1,
       "type": "blip",
       "src": "https://unpkg.com/blip-chat-widget",
       "data": {
-        "appKey": "Y2hhdGN0YTo0MmYyNTQwOC05NmMyLTQ0ZGYtYmViNC03ODgzMWEwNTBiYjQ=",
-        "button": { "color": "#2CC3D5" },
-        "auth": { "identity": "", "pass": "" },
-        "customStyle": {},
+        "appKey": "cGFnc2VndXJvYmV0YXZlbmRhczo4NzQ4ZWVlZC02ZjJkLTQ1NzQtOWYxZC0xZDY4MGQwMzIxYzI=",
+        "button": {
+          "color": "#2CC3D5"
+        },
+        "auth": {
+          "type": "DEV",
+          "identity": "teste1",
+          "pass": "teste1"
+        },
         "account": {
           "fullName": "João",
           "email": "joao@joao.com",
           "phoneNumber": "+15055034455",
           "city": "Decatur"
         },
+        "customStyle": {},
         "cta": true,
         "target": ""
       }
@@ -24,49 +31,81 @@
       "src": "https://unpkg.com/blip-chat-widget",
       "data": {
         "appKey": "dGVzdGVkZWNoYXQxOmI5YTU5MjZkLTE2MDQtNDU0Yi1iODJlLTdlNjljNGU4NzA0Zg==",
-        "button": { "color": "#2CC3D5" },
-        "auth": { "identity": "", "pass": "" },
-        "customStyle": {},
+        "button": {
+          "color": "#2CC3D5"
+        },
+        "auth": {
+          "type": "GUEST",
+          "identity": "",
+          "pass": ""
+        },
         "account": {
           "fullName": "Maria",
           "email": "maria@maria.com",
           "phoneNumber": "+15055034455",
           "city": "Decatur"
         },
+        "customStyle": {},
         "cta": false,
+        "target": ""
+      }
+    },
+    {
+      "id": 3,
+      "type": "blip",
+      "src": "https://unpkg.com/blip-chat-widget",
+      "data": {
+        "appKey": "Y2hhdGN0YTo0MmYyNTQwOC05NmMyLTQ0ZGYtYmViNC03ODgzMWEwNTBiYjQ=",
+        "button": { "color": "#2CC3D5" },
+        "auth": {
+          "type": "GUEST",
+          "identity": "",
+          "pass": ""
+        },
+        "account": {
+          "fullName": "João",
+          "email": "joao@joao.com",
+          "phoneNumber": "+15055034455",
+          "city": "Decatur"
+        },
+        "customStyle": {},
+        "cta": true,
         "target": ""
       }
     }
   ],
   "avi": {
     "type": "avi",
-    "src": "https://avi.uol.com.br/script/load/tracking.js?ms=789654321",
-    "license": "VI-6182-02",
-    "customVars": [{
-        "name": "servicename",
-        "value": "pagseguro"
-      },
-      {
-        "name": "servicecategory",
-        "value": "pagseguro"
-      },
-      {
-        "name": "skin",
-        "value": "pagseguro"
-      },
-      {
-        "name": "source",
-        "value": "4"
-      }
-    ]
+    "data": {
+      "title": "Chat Title",
+      "description": "Chat Description",
+      "context": ".chat-ibanking-js",
+      "license": "VI-6182-02",
+      "trackingUrl": "https://avi.uol.com.br/script/load/tracking.js",
+      "styleUrl": "https://cdn.jsdelivr.net/gh/hjkuba/cdn-files@master/chat-ib.css",
+      "customVars": [
+        {
+          "name": "servicename",
+          "value": "pagseguro"
+        },
+        {
+          "name": "servicecategory",
+          "value": "pagseguro"
+        },
+        {
+          "name": "skin",
+          "value": "pagseguro"
+        },
+        {
+          "name": "source",
+          "value": "4"
+        }
+      ]
+    }
   },
   "gv": {
     "type": "gv",
     "src": "https://cdn.jsdelivr.net/gh/felvieira/api-chat-mock@master/gv.js",
-    "data": {
-
-    }
+    "data": {}
   }
-
-
 }
