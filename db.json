@@ -105,7 +105,9 @@
   },
   "gv": {
     "type": "gv",
-    "src": "https://cdn.jsdelivr.net/gh/felvieira/api-chat-mock@master/gv.js",
-    "data": {}
+    "src": "https://cdn.jsdelivr.net/gh/hjkuba/cdn-files@master/gv-chat-script.js",
+    "data": {
+      "gvChatContainerId": "gv-chat-container"
+    }
   }
 }
