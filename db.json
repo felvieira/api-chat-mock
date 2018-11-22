@@ -105,7 +105,7 @@
   },
   "gv": {
     "type": "gv",
-    "src": "https://cdn.jsdelivr.net/gh/hjkuba/cdn-files@master/gv-chat-script.js",
+    "src": "https://cdn.jsdelivr.net/gh/hjkuba/cdn-files@master/gv-chat-script2.js",
     "data": {
       "gvChatContainerId": "gv-chat-container"
     }
