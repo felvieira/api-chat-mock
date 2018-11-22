@@ -105,9 +105,10 @@
   },
   "gv": {
     "type": "gv",
-    "src": "https://cdn.jsdelivr.net/gh/hjkuba/cdn-files@master/gv-chat-script2.js",
-    "data": {
-      "gvChatContainerId": "gv-chat-container"
-    }
+    "src": "https://cdn.jsdelivr.net/gh/felvieira/api-chat-mock@master/gv.js",
+    "data": {}
+  },
+  "pdf":{
+    "url": "http://www.pdf995.com/samples/pdf.pdf"
   }
 }
