@@ -206,69 +206,65 @@
   ],
   "cursos": [
     {
-      "section1": {
-        "name": "ORGANIZAÇÃO DE EMPRESAS",
-        "videos": [
+      "name": "ORGANIZAÇÃO DE EMPRESAS",
+      "videos": [
+        {
+          "videoName": "Teste de nome",
+          "endpoint": "\/\/player.vimeo.com\/video\/259411563?autoplay=0&loop=0&autopause=0&muted=0",
+          "complete": "S",
+          "time_in_seconds": 62
+        },
+        {
+          "videoName": "Teste de nome",
+          "endpoint": "\/\/player.vimeo.com\/video\/190613094?autoplay=0&loop=0&autopause=0&muted=0",
+          "complete": "N",
+          "time_in_seconds": 158
+        }
+      ],
+      "quizzes": {
+        "topico1": [
           {
-            "videoName": "Teste de nome",
-            "endpoint": "\/\/player.vimeo.com\/video\/259411563?autoplay=0&loop=0&autopause=0&muted=0",
+            "question": "quiz Q1?",
             "complete": "S",
-            "time_in_seconds": 62
+            "next_in_seconds": 60
           },
           {
-            "videoName": "Teste de nome",
-            "endpoint": "\/\/player.vimeo.com\/video\/190613094?autoplay=0&loop=0&autopause=0&muted=0",
+            "question": "quiz Q2?",
             "complete": "N",
-            "time_in_seconds": 158
+            "next_in_seconds": 60
           }
-        ],
-        "quizzes": {
-          "topico1": [
-            {
-              "question": "quiz Q1?",
-              "complete": "S",
-              "next_in_seconds": 60
-            },
-            {
-              "question": "quiz Q2?",
-              "complete": "N",
-              "next_in_seconds": 60
-            }
-          ]
-        }
+        ]
       }
     },
     {
-      "section2": {
-        "name": "ORGANIZAÇÃO DE EMPRESAS",
-        "videos": [
+      "name": "ORGANIZAÇÃO DE EMPRESAS",
+      "videos": [
+        {
+          "videoName": "Teste de nome",
+          "endpoint": "\/\/player.vimeo.com\/video\/259411563?autoplay=0&loop=0&autopause=0&muted=0",
+          "complete": "S",
+          "time_in_seconds": 62
+        },
+        {
+          "videoName": "Teste de nome",
+          "endpoint": "\/\/player.vimeo.com\/video\/190613094?autoplay=0&loop=0&autopause=0&muted=0",
+          "complete": "N",
+          "time_in_seconds": 158
+        }
+      ],
+      "quizzes": {
+        "topico1": [
           {
-            "videoName": "Teste de nome",
-            "endpoint": "\/\/player.vimeo.com\/video\/259411563?autoplay=0&loop=0&autopause=0&muted=0",
+            "question": "quiz Q1?",
             "complete": "S",
-            "time_in_seconds": 62
+            "next_in_seconds": 60
           },
           {
-            "videoName": "Teste de nome",
-            "endpoint": "\/\/player.vimeo.com\/video\/190613094?autoplay=0&loop=0&autopause=0&muted=0",
+            "question": "quiz Q2?",
             "complete": "N",
-            "time_in_seconds": 158
+            "next_in_seconds": 60
           }
-        ],
-        "quizzes": {
-          "topico1": [
-            {
-              "question": "quiz Q1?",
-              "complete": "S",
-              "next_in_seconds": 60
-            },
-            {
-              "question": "quiz Q2?",
-              "complete": "N",
-              "next_in_seconds": 60
-            }
-          ]
-        }
+        ]
       }
     }
   ]
