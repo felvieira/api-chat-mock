@@ -204,22 +204,27 @@
       "fone": "(51) 993 372 228"
     }
   ],
-  "cursos": [{
+  "cursos": [
+    {
       "section1": {
         "name": "ORGANIZAÇÃO DE EMPRESAS",
-        "videos": [{
+        "videos": [
+          {
+            "videoName": "Teste de nome",
             "endpoint": "\/\/player.vimeo.com\/video\/259411563?autoplay=0&loop=0&autopause=0&muted=0",
             "complete": "S",
             "time_in_seconds": 62
           },
           {
+            "videoName": "Teste de nome",
             "endpoint": "\/\/player.vimeo.com\/video\/190613094?autoplay=0&loop=0&autopause=0&muted=0",
             "complete": "N",
             "time_in_seconds": 158
           }
         ],
         "quizzes": {
-          "topico1": [{
+          "topico1": [
+            {
               "question": "quiz Q1?",
               "complete": "S",
               "next_in_seconds": 60
@@ -236,19 +241,23 @@
     {
       "section2": {
         "name": "ORGANIZAÇÃO DE EMPRESAS",
-        "videos": [{
+        "videos": [
+          {
+            "videoName": "Teste de nome",
             "endpoint": "\/\/player.vimeo.com\/video\/259411563?autoplay=0&loop=0&autopause=0&muted=0",
             "complete": "S",
             "time_in_seconds": 62
           },
           {
+            "videoName": "Teste de nome",
             "endpoint": "\/\/player.vimeo.com\/video\/190613094?autoplay=0&loop=0&autopause=0&muted=0",
             "complete": "N",
             "time_in_seconds": 158
           }
         ],
         "quizzes": {
-          "topico1": [{
+          "topico1": [
+            {
               "question": "quiz Q1?",
               "complete": "S",
               "next_in_seconds": 60
