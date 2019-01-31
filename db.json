@@ -222,18 +222,45 @@
         }
       ],
       "quizzes": {
-        "topico1": [
-          {
-            "question": "quiz Q1?",
-            "complete": "S",
-            "next_in_seconds": 60
-          },
-          {
-            "question": "quiz Q2?",
-            "complete": "N",
-            "next_in_seconds": 60
-          }
-        ]
+        "Criado novo quiz": {
+          "complete": "N",
+          "time_in_seconds": 60,
+          "questions": [{
+              "id_question": "192",
+              "question_name": "Quiz9 Q7",
+              "question": "Which country started the ancient Olympic games?",
+              "options": [
+
+              ],
+              "answer": "1",
+              "hint": "Deuses",
+              "explaination": "",
+              "marks": "2"
+            },
+            {
+              "id_question": "193",
+              "question_name": "Quiz9 Q6",
+              "question": "Where do investors sell second hand shares?",
+              "options": [{
+                  "value": 1,
+                  "text": "Stock Exchange"
+                },
+                {
+                  "value": 2,
+                  "text": "Football Ground"
+                },
+                {
+                  "value": 3,
+                  "text": "Madison Garden"
+                }
+              ],
+              "answer": "1",
+              "hint": "",
+              "explaination": "",
+              "marks": ""
+            }
+          ]
+        }
       }
     },
     {
@@ -241,30 +268,155 @@
       "videos": [
         {
           "videoName": "Teste de nome",
-          "endpoint": "\/\/player.vimeo.com\/video\/259411563?autoplay=0&loop=0&autopause=0&muted=0",
+          "endpoint": "//player.vimeo.com/video/293033666?autoplay=0&loop=0&autopause=0&muted=0",
           "complete": "S",
           "time_in_seconds": 62
         },
         {
           "videoName": "Teste de nome",
-          "endpoint": "\/\/player.vimeo.com\/video\/190613094?autoplay=0&loop=0&autopause=0&muted=0",
+          "endpoint": "//player.vimeo.com/video/307309034?autoplay=0&loop=0&autopause=0&muted=0",
           "complete": "N",
           "time_in_seconds": 158
         }
       ],
       "quizzes": {
-        "topico1": [
-          {
-            "question": "quiz Q1?",
-            "complete": "S",
-            "next_in_seconds": 60
-          },
-          {
-            "question": "quiz Q2?",
-            "complete": "N",
-            "next_in_seconds": 60
-          }
-        ]
+        "Course Quiz": {
+          "complete": "S",
+          "time_in_seconds": 420,
+          "questions": [{
+              "id_question": "192",
+              "question_name": "Quiz9 Q7",
+              "question": "Which country started the ancient Olympic games?",
+              "options": [
+
+              ],
+              "answer": "1",
+              "hint": "Deuses",
+              "explaination": "",
+              "marks": "3"
+            },
+            {
+              "id_question": "193",
+              "question_name": "Quiz9 Q6",
+              "question": "Where do investors sell second hand shares?",
+              "options": [{
+                  "value": 1,
+                  "text": "Stock Exchange"
+                },
+                {
+                  "value": 2,
+                  "text": "Football Ground"
+                },
+                {
+                  "value": 3,
+                  "text": "Madison Garden"
+                }
+              ],
+              "answer": "1",
+              "hint": "",
+              "explaination": "",
+              "marks": "3"
+            },
+            {
+              "id_question": "194",
+              "question_name": "Quiz9 Q5",
+              "question": "Which planet was for the first time observed in 1930?",
+              "options": [
+
+              ],
+              "answer": "Pluto",
+              "hint": "",
+              "explaination": "",
+              "marks": "3"
+            },
+            {
+              "id_question": "195",
+              "question_name": "Quiz9 Q4",
+              "question": "Which gas is most predominant in the sun?",
+              "options": [{
+                  "value": 1,
+                  "text": "Hydrogen"
+                },
+                {
+                  "value": 2,
+                  "text": "Oxygen"
+                },
+                {
+                  "value": 3,
+                  "text": "Nitrogen"
+                }
+              ],
+              "answer": "1",
+              "hint": "",
+              "explaination": "",
+              "marks": "3"
+            },
+            {
+              "id_question": "196",
+              "question_name": "Quiz9 Q3",
+              "question": "Which of planets has almost the same mass,size and density as the Earth?",
+              "options": [{
+                  "value": 1,
+                  "text": "Venus"
+                },
+                {
+                  "value": 2,
+                  "text": "Uranus"
+                },
+                {
+                  "value": 3,
+                  "text": "Mercury"
+                },
+                {
+                  "value": 4,
+                  "text": "Jupiter"
+                }
+              ],
+              "answer": "1",
+              "hint": "",
+              "explaination": "",
+              "marks": "3"
+            },
+            {
+              "id_question": "197",
+              "question_name": "Quiz9 Q2",
+              "question": "Which planet takes the least time to complete one revolution around the sun?",
+              "options": [
+
+              ],
+              "answer": "Mercury",
+              "hint": "",
+              "explaination": "",
+              "marks": "3"
+            },
+            {
+              "id_question": "198",
+              "question_name": "Quiz9 Q1",
+              "question": "How many times is sun bigger in size than the earth?",
+              "options": [{
+                  "value": 1,
+                  "text": "107 times"
+                },
+                {
+                  "value": 2,
+                  "text": "108 times"
+                },
+                {
+                  "value": 3,
+                  "text": "109 times"
+                },
+                {
+                  "value": 4,
+                  "text": "110 times"
+                }
+              ],
+              "answer": "3",
+              "hint": "",
+              "explaination": "",
+              "marks": "3"
+            }
+          ]
+        }
       }
     }
   ]
