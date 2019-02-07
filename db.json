@@ -205,7 +205,7 @@
     }
   ],
   "cursos": [{
-      "name": "ORGANIZAÇÃO DE EMPRESAS",
+      "name": "Módulo 1",
       "videos": [{
           "videoName": "Teste de nome",
           "endpoint": "//player.vimeo.com/video/259411563?autoplay=0&loop=0&autopause=0&muted=0",
@@ -260,7 +260,7 @@
       }
     },
     {
-      "name": "ORGANIZAÇÃO DE EMPRESAS",
+      "name": "Módulo 2",
       "videos": [{
           "videoName": "Teste de nome",
           "endpoint": "//player.vimeo.com/video/293033666?autoplay=0&loop=0&autopause=0&muted=0",
