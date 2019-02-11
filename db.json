@@ -263,7 +263,7 @@
       "name": "Módulo 2",
       "videos": [{
           "videoName": "Teste de nome",
-          "endpoint": "//player.vimeo.com/video/293033666?autoplay=0&loop=0&autopause=0&muted=0",
+          "endpoint": "//player.vimeo.com/video/6817106?autoplay=0&loop=0&autopause=0&muted=0",
           "complete": "S",
           "time_in_seconds": 62
         },
