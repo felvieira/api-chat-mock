@@ -412,5 +412,13 @@
   ],
   "progress": {
     "progressbar": 33.333333333333
-  }
+  },
+  "cursosMock": [
+    {
+      "action": "teste",
+      "id_post": "id_post",
+      "value": "value",
+      "current_user": "current_user"
+    }
+  ]
 }
