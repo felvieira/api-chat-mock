@@ -415,7 +415,7 @@
   },
   "cursosMock": [
     {
-      "action": "teste",
+      "action": "testes",
       "id_post": "id_post",
       "value": "value",
       "current_user": "current_user"
